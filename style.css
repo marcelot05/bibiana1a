@@ -6,14 +6,17 @@ background-color:white ;
 Estilizar o título principal do seu site
  h1{
 color:black ;
-font-family:Arial;
 background:blueviolet ;
+font-family:arial ;
+text-align: center;
+font-size: 30px;
 }
 
 Estilizar os parágrafos
 p{
 color:green ;
-font-family:geneva;
-font: size 25px ;
+font-family:verdana;
+text-align:left ;
+font-size:25px ;
 background:blue ;
 }
