@@ -1,0 +1,15 @@
+.cabeçalho {
+    padding: 24px 0;
+    .cabeçalho-imagem {
+        width: 20%;}
+background-color: #383D58;
+color: whith;
+display: flex;
+justify-content: space-around;
+.cabeçalho-lista-item {
+display: inline-block;
+margin:0 16px;
+padding: 24px 0;
+font-size: 24px;
+}
+}
